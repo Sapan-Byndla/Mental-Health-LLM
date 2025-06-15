@@ -16,7 +16,7 @@ Mental Health LLM/
 │   └── package.json
 ```
 
-Setup Instructions
+Setup Instructions:
 
 1. Clone or Create Your Project Directory
 Make sure your directory contains both frontend and backend folders.
@@ -120,18 +120,19 @@ Mental Health LLM/
 │   └── package.json
 ```
 
-8. Example Conversation
+7. Example Conversation
 ```
 You: I’ve been feeling sad for no reason lately.
 Bot: It's completely normal to feel this way. You're not alone — do you want to talk about it?
 ```
-10. Optional Improvements
-    Add user authentication (optional)
-    Save chat history
-    Use a more powerful model with quantization
-    Dockerize the backend for deployment
-    Deploy frontend to Vercel / Netlify and backend to Render / Railway
+8. Optional Improvements:
+
+    1. Add user authentication (optional)
+    2. Save chat history
+    3. Use a more powerful model with quantization
+    4. Dockerize the backend for deployment
+    5. Deploy frontend to Vercel / Netlify and backend to Render / Railway
 
 
-9.License
+9.License:
 This is a demo project for educational purposes. Not intended to replace real medical advice or mental health therapy.
